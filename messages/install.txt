@@ -1,5 +1,5 @@
 Thanks for installing Selection Evaluator!
 
-Ceck out the code at https://github.com/meadowstream/MathEvaluator
+Check out the code at https://github.com/meadowstream/MathEvaluator
 
 Usage: select a text area containing a mathematical expression, and use either control + shift + m or command + shift + m to evaluate the expression!
